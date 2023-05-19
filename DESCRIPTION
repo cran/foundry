@@ -1,7 +1,7 @@
 Type: Package
 Package: foundry
 Title: 'Palantir Foundry' Software Development Kit
-Version: 0.12.0
+Version: 0.13.0
 Authors@R: 
     c(person(given = "Alexandre",
              family = "Guinaudeau",
@@ -24,8 +24,8 @@ Suggests: lintr, httptest, testthat (>= 3.0.0), withr
 Collate: 'config.R' 'api_client.R' 'utils.R' 'schema.R'
         'datasets_api_client.R' 'datasets.R'
 NeedsCompilation: no
-Packaged: 2023-02-27 10:08:21 UTC; aguinaudeau
+Packaged: 2023-05-11 16:34:08 UTC; aguinaudeau
 Author: Alexandre Guinaudeau [aut, cre],
   Palantir Technologies [aut, cph]
 Repository: CRAN
-Date/Publication: 2023-02-27 16:42:33 UTC
+Date/Publication: 2023-05-19 13:30:02 UTC

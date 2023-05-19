@@ -1,12 +1,12 @@
-e85b061e09aa0646adc542a4408dfe94 *DESCRIPTION
+e1aaab56eb609080ff0fbbee8585f80d *DESCRIPTION
 bf3567929ba1207ec671b4544d0814c6 *NAMESPACE
-25ec6e358482271b1ba62a3e10ee0414 *R/api_client.R
-c0e13aea80364646b55c4a206b0da273 *R/config.R
-d9984d4a6c3d739ed5ef4de336366b34 *R/datasets.R
-33cc851c1e936443ca130e6352cb7cdb *R/datasets_api_client.R
+6301de665392ea1b8dcd6d64632bb124 *R/api_client.R
+740cee077b45af93e41acb0928be01fb *R/config.R
+cd57b859bb4367aa481932fc78fa6626 *R/datasets.R
+02d785ba998a4631b8f57a61505eeab7 *R/datasets_api_client.R
 db973e2e138ebfadd696b7e00da7ed51 *R/schema.R
-060871150da85dc0a7ccc3d372cdf9f0 *R/utils.R
-fa2d6409a60eeed7589b59238d2425aa *README.md
+604f23ea3fafadf3a238318c4d10a1af *R/utils.R
+31e8592c4498eff6bf569bdb5c42d5fc *README.md
 5ac0abcaf8c5f54a9f1bcebe8184007c *man/datasets.download_files.Rd
 4e8cc1b7fd1f9caeb4d00068be18d54e *man/datasets.list_files.Rd
 a5244cf79be496ae6344cad5df14e383 *man/datasets.read_table.Rd
@@ -30,5 +30,5 @@ c9c4da54f3bb37d2d5170a04a94273c7 *tests/testthat/example.com/internal-api/my_inp
 577de99903501e641b17a62bf6c2bbc9 *tests/testthat/example.com/internal-api/my_input/files/download-a4aff5-POST.json
 d41d8cd98f00b204e9800998ecf8427e *tests/testthat/example.com/internal-api/my_output/files/file.csv/content-PUT.json
 e35e6bf6d858f481e1e84bd0ca0a9e93 *tests/testthat/test-datasets.R
-2d488ceae26f5097cbd1699d53e969a1 *tests/testthat/test-datasets_api_client.R
+f0e6d18570a693ca3527426ef8ee5be3 *tests/testthat/test-datasets_api_client.R
 a2ddaaa42f3f1f0f6ef5cc0078cdf86e *tests/testthat/test-utils.R
